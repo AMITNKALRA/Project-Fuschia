@@ -21,6 +21,6 @@ We welcome contributions from the community! If you'd like to contribute to EcoF
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or feedback, please contact us at [ecofurni@example.com](mailto:ecofurni@example.com).
+For any inquiries or feedback, please contact us at [amit.kalra@sjsu.edu](mailto:amit.kalra@sjsu.edu).
 
 Thank you for supporting EcoFurni! Let's work together to create a more sustainable future. 🌱
